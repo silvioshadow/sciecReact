@@ -1,0 +1,59 @@
+.footer-container{
+   margin-top: 100px;
+   display: flex;
+   background-color: gray;
+   justify-content: center;
+}
+
+.partes{
+   margin-right: 250px;
+}
+
+.pf{
+   padding: 10%;
+   justify-content: center;
+}
+
+.pftituloS{
+   margin-right: 50px;
+   margin-left: 100px;
+}
+
+
+.pf{
+   font-size: 30px;
+}
+
+.pf1{
+   font-size: 25px;
+   margin-top: 30px;
+}
+
+.lista1{
+   list-style-type: none;
+   width: 100%;
+   text-align: center;
+}
+
+.lista2{
+   display: flex;
+   align-items: center;
+   gap: 1em;
+   width: 70%;
+   margin: 0 auto;
+}
+
+.pf:hover{
+   color: #ffcf40;
+}
+
+.pf1:hover{
+   color: #ffcf40;
+}
+
+.rectangle{
+   width: 100vh;
+   height: 10px;
+   margin-bottom: 250px;
+   background-color: gold;
+}

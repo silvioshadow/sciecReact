@@ -1,0 +1,54 @@
+.divider2{
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+   margin-bottom: 20px;
+   font-size: 30px;
+   font-weight: 700;
+   overflow: hidden;
+   margin-right: 100px;
+}
+
+.card-container3{
+   margin-top: 100px;
+   margin-right: 50px;
+
+}
+
+.card-horizontal{
+   background-color: rgba(64, 78, 124, 0.35);
+   border-radius: 5px;
+   width: 900px;
+   margin-bottom: 30px;
+   display: flex;
+   flex-direction: row;
+   transition: ease .3s;
+   box-shadow: 0 10px 10px 0 #606060;
+}
+
+.card2-img{
+   margin-right: 20px;
+   width: 70%;
+   height: 70%;
+   object-fit: cover;
+   border-radius: 10px;
+}
+
+.text-card2{
+   display: absolute;
+   line-height: 4.0vh;
+   font-size: 15px;
+}
+
+.card-horizontal:hover{
+   transform: scale(1.1);
+}
+
+.card22-img{
+   margin-right: 20px;
+   width: 31%;
+   height: 50%;
+   object-fit: cover;
+   border-radius: 10px
+}
+

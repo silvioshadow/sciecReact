@@ -1,0 +1,52 @@
+.divider{
+   display: flex;
+   justify-content: left;
+   align-items: left;
+   margin-top: 50px;
+   margin-bottom: 10px;
+   color: #5f634f;
+   font-size: 30px;
+   font-weight: 700;
+}
+
+.card-container2{
+   display:inline-flex;
+   margin-top: 200px;
+   justify-content: space-between;
+   margin-right: 200px;
+   float: left;
+}
+
+.card{
+   margin-left: 5px;
+   background-color: #3b5998;
+   border-radius: 10px;
+   color: azure;
+   font-size: 15px;
+   line-height: 35px;
+   max-width: 500px;
+   border: solid black;
+}
+
+.titulo-card{
+   background-color: azure;
+   color: black;
+   text-align: center;
+}
+
+.texto-card{
+   padding: 10%;
+}
+
+.card-btn{
+   border: solid azure;
+   border-radius: 10px;
+   background-color: azure;
+   color: black;
+   justify-content: center;
+}
+
+.card:hover{
+   transform: scale(1.1);
+   background-color: purple;
+}

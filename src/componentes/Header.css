@@ -1,0 +1,29 @@
+.header{
+   background-color: blue;
+   width: 1350px;
+   height: 70px;
+   display: flex;
+}
+
+.logopro{
+   display: flex;
+   width: 150px;
+}
+
+.MenuH{
+   list-style: none;
+}
+a{
+   color: azure;
+   text-decoration: none;
+   font-size: 25px;
+   line-height: 10vh;
+   margin-left: 80px;
+}
+
+.encerrado{
+   padding: 0 40px 0 40px;
+   border-color: azure;
+   border-style: solid;
+   border-radius: 10px;
+}
